@@ -1,0 +1,24 @@
+from PIL import Image
+import os
+
+def convertir_png_a_jpg_y_eliminar(ruta_directorio):
+    # Recorre todos los archivos en el directorio
+    for archivo in os.listdir(ruta_directorio):
+        if archivo.endswith(".png"):
+            ruta_png = os.path.join(ruta_directorio, archivo)
+            ruta_jpg = os.path.join(ruta_directorio, archivo.replace(".png", ".jpg"))
+            
+            # Abre la imagen PNG
+            with Image.open(ruta_png) as img:
+                # Convierte a modo RGB
+                img_rgb = img.convert("RGB")
+                # Guarda la imagen en formato JPG
+                img_rgb.save(ruta_jpg, "JPEG")
+                print(f"Convertido: {archivo} a {archivo.replace('.png', '.jpg')}")
+            
+            # Elimina el archivo PNG después de la conversión
+            os.remove(ruta_png)
+            print(f"Eliminado: {archivo}")
+
+# Llama a la función con el directorio de las imágenes
+convertir_png_a_jpg_y_eliminar("src\dataset\Volkswagen Beetle")
