@@ -1,0 +1,3797 @@
+[
+  {
+    "velocidad": -6,
+    "distancia": 700,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 694,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 688,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 682,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 676,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 670,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 664,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 658,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 652,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 646,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 640,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 634,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 628,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 622,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 616,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 610,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 604,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 598,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 592,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 586,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 580,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 574,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 568,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 562,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 556,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 550,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 544,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 538,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 532,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 526,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 520,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 514,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 508,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 502,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 496,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 490,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 484,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 478,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 472,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 466,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 460,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 454,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 448,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 442,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 436,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 430,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 424,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 418,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 412,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 406,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 400,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 394,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 388,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 382,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 376,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 370,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 364,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 358,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 352,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 346,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 340,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 334,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 328,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 322,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 316,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 310,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 304,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 298,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 292,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 286,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 280,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 274,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 268,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 262,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 256,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 250,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 244,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 238,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 232,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 226,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 220,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 214,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 208,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 202,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 196,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 190,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 184,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 178,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 172,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 166,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 160,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 154,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 148,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 142,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 136,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 130,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 124,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 118,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 112,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 106,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 100,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 94,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 88,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 82,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 76,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 70,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 64,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 58,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 52,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 46,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 34,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 22,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 10,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 2,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 14,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 26,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 38,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 50,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 700,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 694,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 688,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 682,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 676,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 670,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 664,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 658,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 652,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 646,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 640,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 634,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 628,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 622,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 616,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 610,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 604,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 598,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 592,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 586,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 580,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 574,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 568,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 562,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 556,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 550,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 544,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 538,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 532,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 526,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 520,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 514,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 508,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 502,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 496,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 490,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 484,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 478,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 472,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 466,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 460,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 454,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 448,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 442,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 436,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 430,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 424,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 418,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 412,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 406,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 400,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 394,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 388,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 382,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 376,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 370,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 364,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 358,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 352,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 346,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 340,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 334,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 328,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 322,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 316,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 310,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 304,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 298,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 292,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 286,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 280,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 274,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 268,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 262,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 256,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 250,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 244,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 238,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 232,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 226,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 220,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 214,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 208,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 202,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 196,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 190,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 184,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 178,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 172,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 166,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 160,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 154,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 148,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 142,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 136,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 130,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 124,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 118,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 112,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 106,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 100,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 94,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 88,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 82,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 76,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 70,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 64,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 58,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 52,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 46,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 34,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 22,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 10,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 2,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 14,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 26,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 38,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 50,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 700,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 696,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 692,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 688,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 684,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 680,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 676,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 672,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 668,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 664,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 660,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 656,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 652,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 648,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 644,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 640,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 636,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 632,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 628,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 624,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 620,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 616,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 612,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 608,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 604,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 600,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 596,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 592,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 588,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 584,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 580,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 576,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 572,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 568,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 564,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 560,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 556,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 552,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 548,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 544,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 540,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 536,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 532,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 528,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 524,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 520,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 516,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 512,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 508,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 504,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 500,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 496,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 492,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 488,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 484,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 480,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 476,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 472,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 468,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 464,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 460,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 456,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 452,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 448,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 444,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 440,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 436,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 432,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 428,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 424,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 420,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 416,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 412,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 408,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 404,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 400,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 396,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 392,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 388,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 384,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 380,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 376,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 372,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 368,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 364,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 360,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 356,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 352,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 348,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 344,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 340,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 336,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 332,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 328,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 324,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 320,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 316,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 312,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 308,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 304,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 300,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 296,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 292,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 288,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 284,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 280,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 276,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 272,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 268,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 264,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 260,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 256,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 252,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 248,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 244,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 240,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 236,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 232,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 228,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 224,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 220,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 216,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 212,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 208,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 204,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 200,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 196,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 192,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 188,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 184,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 180,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 176,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 172,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 168,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 164,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 160,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 156,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 152,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 148,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 144,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 140,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 136,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 132,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 128,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 124,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 120,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 116,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 112,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 108,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 104,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 100,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 96,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 92,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 88,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 84,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 80,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 76,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 72,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 68,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 64,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 60,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 56,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 52,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 48,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 36,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 24,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 12,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 0,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 12,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 24,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 36,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 48,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 700,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 694,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 688,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 682,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 676,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 670,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 664,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 658,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 652,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 646,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 640,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 634,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 628,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 622,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 616,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 610,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 604,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 598,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 592,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 586,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 580,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 574,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 568,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 562,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 556,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 550,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 544,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 538,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 532,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 526,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 520,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 514,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 508,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 502,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 496,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 490,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 484,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 478,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 472,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 466,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 460,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 454,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 448,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 442,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 436,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 430,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 424,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 418,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 412,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 406,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 400,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 394,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 388,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 382,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 376,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 370,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 364,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 358,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 352,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 346,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 340,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 334,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 328,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 322,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 316,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 310,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 304,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 298,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 292,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 286,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 280,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 274,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 268,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 262,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 256,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 250,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 244,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 238,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 232,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 226,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 220,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 214,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 208,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 202,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 196,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 190,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 184,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 178,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 172,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 166,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 160,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 154,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 148,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 142,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 136,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 130,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 124,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 118,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 112,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 106,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 100,
+    "salto": 0
+  },
+  {
+    "velocidad": -6,
+    "distancia": 94,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 88,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 82,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 76,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 70,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 64,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 58,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 52,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 46,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 34,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 22,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 10,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 2,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 14,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 26,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 38,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -6,
+    "distancia": 50,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 700,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 696,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 692,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 688,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 684,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 680,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 676,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 672,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 668,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 664,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 660,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 656,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 652,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 648,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 644,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 640,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 636,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 632,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 628,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 624,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 620,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 616,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 612,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 608,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 604,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 600,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 596,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 592,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 588,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 584,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 580,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 576,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 572,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 568,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 564,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 560,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 556,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 552,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 548,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 544,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 540,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 536,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 532,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 528,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 524,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 520,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 516,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 512,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 508,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 504,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 500,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 496,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 492,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 488,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 484,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 480,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 476,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 472,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 468,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 464,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 460,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 456,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 452,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 448,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 444,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 440,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 436,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 432,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 428,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 424,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 420,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 416,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 412,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 408,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 404,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 400,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 396,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 392,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 388,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 384,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 380,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 376,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 372,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 368,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 364,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 360,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 356,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 352,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 348,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 344,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 340,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 336,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 332,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 328,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 324,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 320,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 316,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 312,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 308,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 304,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 300,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 296,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 292,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 288,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 284,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 280,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 276,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 272,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 268,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 264,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 260,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 256,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 252,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 248,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 244,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 240,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 236,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 232,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 228,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 224,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 220,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 216,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 212,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 208,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 204,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 200,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 196,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 192,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 188,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 184,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 180,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 176,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 172,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 168,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 164,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 160,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 156,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 152,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 148,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 144,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 140,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 136,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 132,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 128,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 124,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 120,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 116,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 112,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 108,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 104,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 100,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 96,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 92,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 88,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 84,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 80,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 76,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 72,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 68,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 64,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 60,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 56,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 52,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 48,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 44,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 40,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 36,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 24,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 12,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 0,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 4,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 8,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 12,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 16,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 20,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 24,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 28,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 32,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 36,
+    "salto": 1
+  },
+  {
+    "velocidad": -4,
+    "distancia": 40,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 44,
+    "salto": 0
+  },
+  {
+    "velocidad": -4,
+    "distancia": 48,
+    "salto": 0
+  },
+  {
+    "velocidad": -3,
+    "distancia": 700,
+    "salto": 0
+  },
+  {
+    "velocidad": -3,
+    "distancia": 697,
+    "salto": 0
+  },
+  {
+    "velocidad": -3,
+    "distancia": 694,
+    "salto": 0
+  },
+  {
+    "velocidad": -3,
+    "distancia": 691,
+    "salto": 0
+  },
+  {
+    "velocidad": -7,
+    "distancia": 28,
+    "salto": 1
+  }
+]
